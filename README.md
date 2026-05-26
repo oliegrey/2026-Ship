@@ -10,10 +10,16 @@
 | .raged    | TBD                |                           |
 | hyunahri  | TBD                |                           |
 
-## Notes
+---
 
-A ship counts as a project under your main developer studio or name with the intention of having as much public attention as possible.
+#### What is shipping?
+A ship for this challenge is a project released under your main developer studio or name with the intention of being attached to your reputation and receiving as much public attention as possible.
 
-If you want to ship a 1 day game jam, you can, there are no strict requirements, but this does mean everyone else in the challenge can relentlessly mock you until the end of time.
+#### What should be my goal?
+If you want a rule of thumb, this game should be something you are proud to tell family, friends, partners and future employers (and any existing fanbase) that you spent 6 months or longer creating.
 
-If you want a rule of thumb for some reason, this game should be something you should be proud to tell family, friends, partners and future employees (and any existing fanbase) that you spent a minimum of 6 months creating.
+#### What is stopping me from cheating?
+Nothing. If you want to ship a 1 day game jam, you can, there are no strict requirements. If you do cheese the challenge however, you are wasting your time and may be relentlessly mocked by other challenge participants until the end of time.
+
+#### Can I just use AI to generate everything?
+See the answer to "What is stopping me from cheating?". Also, if you talk about your use of AI multiple times a day, I will just remove you for being annoying.
