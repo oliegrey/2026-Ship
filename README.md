@@ -1,3 +1,4 @@
+## Participants
 
 | user      | project            | last update               |
 | --------- | ------------------ | ------------------------- |
@@ -10,8 +11,7 @@
 | .raged    | TBD                |                           |
 | hyunahri  | TBD                |                           |
 
----
-
+## FAQ
 #### What is shipping?
 A ship for this challenge is a project released under your main developer studio or name with the intention of being attached to your reputation and receiving as much public attention as possible.
 
