@@ -12,11 +12,11 @@
 | hyunahri  | TBD                |                           |
 
 ## FAQ
+#### What is the goal of this challenge?
+Shipping a game before the end of 2026. It should be something you are proud to tell family, friends, partners, future employers and any existing fanbase that you spent 6 months or longer creating. 
+
 #### What is shipping?
 A publicly released game attached to your reputation (main studio or developer name) with the intention of as many people playing as possible.
-
-#### What is my goal?
-If you want a rule of thumb, this game should be something you are proud to tell family, friends, partners, future employers and any existing fanbase that you spent 6 months or longer creating.
 
 #### What is stopping me from cheating?
 Nothing. Ship a 1 day game jam if you want, there are no strict requirements. You are, however, wasting your time and will be relentlessly mocked by other challenge participants.
