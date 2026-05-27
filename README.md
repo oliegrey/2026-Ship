@@ -2,8 +2,8 @@
 
 | user      | project            | last update               |
 | --------- | ------------------ | ------------------------- |
-| zonrox.   | autobattler        | link to discord message   |
-| bobrax    | puzzle/escape room |                           |
+| zonrox.   | autobattler        |                           |
+| bobrax    | puzzle/escape room | [27/05/2026](https://discord.com/channels/85338836384628736/85338836384628736/1509135932329164821) |
 | oliegrey  | saltminer (2d mmo) |                           |
 | riverssjc | 2d mmo             |                           |
 | barzenoki | spacecraft tycoon  |                           |
