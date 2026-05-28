@@ -9,7 +9,7 @@
 | barzenoki | spacecraft tycoon  |                           |
 | ickdanny  | SFE                |                           |
 | .raged    | TBD                |                           |
-| hyunahri  | TBD                |                           |
+| hyunahri  | not BSG            |                           |
 
 ## FAQ
 #### What is the goal of this challenge?
