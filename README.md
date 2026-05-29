@@ -1,4 +1,4 @@
-## Participants
+## PARTICIPANTS
 
 | user      | project            | last update               |
 | --------- | ------------------ | ------------------------- |
@@ -10,6 +10,13 @@
 | ickdanny  | SFE                |                           |
 | .raged    | TBD                |                           |
 | hyunahri  | not BSG            |                           |
+
+### Your next update is required before: 8th June
+
+## REQUIREMENTS
+#### Fortnitely updates
+To stay in the challenge you must share an update before every other monday.
+An update can be anything from a description of what you have been doing to a video and can be of any size.
 
 ## FAQ
 #### What is the goal of this challenge?
