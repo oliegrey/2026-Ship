@@ -2,14 +2,14 @@
 
 | user      | project            | last update               |
 | --------- | ------------------ | ------------------------- |
-| zonrox.   | autobattler        |                           |
+| zonrox.   | autobattler        |  |
 | bobrax    | puzzle/escape room | [27/05/2026](https://discord.com/channels/85338836384628736/85338836384628736/1509135932329164821) |
-| oliegrey  | saltminer (2d mmo) |                           |
+| oliegrey  | saltminer (2d mmo) |  |
 | riverssjc | 2d mmo             | [28/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1509352394713071676) |
 | barzenoki | spacecraft tycoon  | [29/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1509831674270056518) |
-| ickdanny  | SFE                |                           |
-| .raged    | TBD                |                           |
-| hyunahri  | not BSG            |                           |
+| ickdanny  | SFE                | [29/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1509988687428063342) |
+| .raged    | TBD                |  |
+| hyunahri  | not BSG            |  |
 
 ### Your next update is required before: 8th June
 
