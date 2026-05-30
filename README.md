@@ -2,7 +2,7 @@
 
 | user      | project            | last update               |
 | --------- | ------------------ | ------------------------- |
-| zonrox.   | autobattler        |  |
+| zonrox.   | autobattler        | [30/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1510211422003396749) |
 | bobrax    | puzzle/escape room | [27/05/2026](https://discord.com/channels/85338836384628736/85338836384628736/1509135932329164821) |
 | oliegrey  | saltminer (2d mmo) |  |
 | riverssjc | 2d mmo             | [28/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1509352394713071676) |
