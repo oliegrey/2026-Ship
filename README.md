@@ -9,7 +9,7 @@
 | barzenoki | spacecraft tycoon  | [31/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1510544363355115650) |
 | ickdanny  | SFE                | [31/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1510504081259499650) |
 | .raged    | TBD                | [31/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1510675605639663726) |
-| hyunahri  | not BSG            |  |
+| hyunahri  | not BSG            | [01/06/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1511112262457491676) |
 
 ### Your next update is required before: 8th June
 
