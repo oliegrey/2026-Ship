@@ -2,18 +2,18 @@
 
 | user            | project            | last update               |
 | --------------- | ------------------ | ------------------------- |
-| zonrox.         | autobattler        | [30/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1510211422003396749) |
-| bobrax          | puzzle/escape room | [27/05/2026](https://discord.com/channels/85338836384628736/85338836384628736/1509135932329164821)   |
-| oliegrey        | saltminer (2d mmo) | [31/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1510775276307742851) |
-| riverssjc       | 2d mmo             | [03/06/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1511522858290122882) |
-| barzenoki       | spacecraft tycoon  | [31/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1510544363355115650) |
-| ickdanny        | SFE                | [31/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1510504081259499650) |
-| .raged          | TBD                | [31/05/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1510675605639663726) |
-| hyunahri        | not BSG            | [01/06/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1511112262457491676) |
-| cipherphantom37 | parkour/puzzle     | [07/04/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1513150307910160475)|
-| randomnes       | roguelike          | [04/06/2026](https://discord.com/channels/85338836384628736/1508293762470641775/1511957756192624730) |
+| zonrox.         | autobattler        | [<span style="color: red;">30/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510211422003396749) |
+| bobrax          | puzzle/escape room | [<span style="color: red;">27/05/2026</span>](https://discord.com/channels/85338836384628736/85338836384628736/1509135932329164821)   |
+| oliegrey        | saltminer (2d mmo) | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510775276307742851) |
+| riverssjc       | 2d mmo             | [<span style="color: red;">03/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1511522858290122882) |
+| barzenoki       | spacecraft tycoon  | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510544363355115650) |
+| ickdanny        | SFE                | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510504081259499650) |
+| .raged          | TBD                | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510675605639663726) |
+| hyunahri        | not BSG            | [<span style="color: red;">01/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1511112262457491676) |
+| cipherphantom37 | parkour/puzzle     | [<span style="color: red;">07/04/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1513150307910160475)|
+| randomnes       | roguelike          | [<span style="color: red;">04/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1511957756192624730) |
 
-### Your next update is required before: 8th June
+### Next update deadline: 22nd June
 
 ## REQUIREMENTS
 #### Fortnitely updates
