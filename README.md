@@ -4,7 +4,7 @@
 | --------------- | ------------------ | ------------------------- |
 | zonrox.         | autobattler        | [<span style="color: red;">30/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510211422003396749) |
 | bobrax          | puzzle/escape room | [<span style="color: red;">27/05/2026</span>](https://discord.com/channels/85338836384628736/85338836384628736/1509135932329164821)   |
-| oliegrey        | saltminer (2d mmo) | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510775276307742851) |
+| oliegrey        | saltminer (2d mmo) | [<span style="color: green;">09/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1514036065306939494) |
 | riverssjc       | 2d mmo             | [<span style="color: red;">03/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1511522858290122882) |
 | barzenoki       | spacecraft tycoon  | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510544363355115650) |
 | ickdanny        | SFE                | [<span style="color: green;">09/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1514008723142742147) |
