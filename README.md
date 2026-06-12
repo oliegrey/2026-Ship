@@ -9,7 +9,7 @@
 | barzenoki       | spacecraft tycoon  | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510544363355115650) |
 | ickdanny        | SFE                | [<span style="color: green;">09/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1514008723142742147) |
 | .raged          | TBD                | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510675605639663726) |
-| hyunahri        | not BSG            | [<span style="color: red;">01/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1511112262457491676) |
+| hyunahri        | not BSG            | [<span style="color: green;">12/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1514828576078172190) |
 | cipherphantom37 | parkour/puzzle     | [<span style="color: red;">07/04/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1513150307910160475) |
 | randomnes       | roguelike          | [<span style="color: red;">04/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1511957756192624730) |
 | hapied12        | roblox bluelock    | [<span style="color: red;">no update</span>]() |
