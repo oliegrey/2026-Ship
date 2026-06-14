@@ -14,7 +14,7 @@
 | randomnes       | roguelike          | [<span style="color: red;">04/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1511957756192624730) |
 | hapied12        | roblox bluelock    | [<span style="color: red;">no update</span>]() |
 
-## <span style="color: orange;">Next update deadline: 22nd June</span>
+# Next update deadline: 22nd June
 
 ## REQUIREMENTS
 #### Fortnitely updates
