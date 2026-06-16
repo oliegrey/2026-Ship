@@ -14,6 +14,8 @@
 | randomnes       | roguelike          | [<span style="color: red;">04/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1511957756192624730) |
 | hapied12        | roblox bluelock    | [<span style="color: red;">no update</span>]() |
 | eyy_lmao12      | Zombie Tower       | [<span style="color: red;">no update</span>]() |
+| meesles         | project avalon     | [<span style="color: red;">no update</span>]() |
+| phalena_dev     | project ikusa      | [<span style="color: red;">no update</span>]() |
 
 # Next update deadline: 22nd June
 
