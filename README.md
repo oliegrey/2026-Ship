@@ -16,6 +16,7 @@
 | eyy_lmao12      | Zombie Tower       | [<span style="color: red;">no update</span>]() |
 | meesles         | project avalon     | [<span style="color: red;">no update</span>]() |
 | phalena_dev     | project ikusa      | [<span style="color: red;">no update</span>]() |
+| tyridge77       | project1 project2 project3 | [<span style="color: red;">no update</span>]() |
 
 # Next update deadline: 22nd June
 
