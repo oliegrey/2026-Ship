@@ -12,7 +12,7 @@
 | .raged          | TBD                | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510675605639663726) |
 | hyunahri        | not BSG            | [<span style="color: green;">12/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1514828576078172190) |
 | cipherphantom37 | parkour/puzzle     | [<span style="color: red;">07/04/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1513150307910160475) |
-| randomnes       | roguelike          | [<span style="color: red;">17/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1516686739257819238) |
+| randomnes       | roguelike          | [<span style="color: green;">17/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1516686739257819238) |
 | hapied12        | roblox bluelock    | [<span style="color: red;">no update</span>]() |
 | eyy_lmao12      | Zombie Tower       | [<span style="color: red;">no update</span>]() |
 | meesles         | project avalon     | [<span style="color: red;">no update</span>]() |
