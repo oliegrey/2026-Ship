@@ -1,5 +1,6 @@
 ## PARTICIPANTS
 ### Next update deadline: 22nd June
+Please include the word "update" in your message so i can find it when i update this list.
 
 | user            | project            | last update               |
 | --------------- | ------------------ | ------------------------- |
