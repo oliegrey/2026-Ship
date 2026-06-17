@@ -1,4 +1,5 @@
 ## PARTICIPANTS
+### Next update deadline: 22nd June
 
 | user            | project            | last update               |
 | --------------- | ------------------ | ------------------------- |
@@ -18,10 +19,6 @@
 | phalena_dev     | project ikusa      | [<span style="color: red;">no update</span>]() |
 | tyridge77       | project1 project2 project3 | [<span style="color: red;">no update</span>]() |
 
-### Next update deadline: 22nd June
-
----
-
 ## DROPOUTS
 | user            | project            | last update               |
 | --------------- | ------------------ | ------------------------- |
@@ -29,14 +26,10 @@
 
 ### If you fail to provide updates within deadlines you will be added to this list.
 
----
-
 ## REQUIREMENTS
 #### Fortnitely updates
 To stay in the challenge you must share an update before every other monday.
 An update can be anything from a description of what you have been doing to a video and can be of any size.
-
----
 
 ## FAQ
 #### What is the goal of this challenge?
