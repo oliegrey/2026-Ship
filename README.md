@@ -20,6 +20,7 @@
 | tyridge77       | project1 project2 project3 | [<span style="color: red;">no update</span>]() |
 
 ## DROPOUTS
+
 | user            | project            |
 | --------------- | ------------------ |
 | your name here  | your project       |
