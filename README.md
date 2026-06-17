@@ -20,12 +20,11 @@
 | tyridge77       | project1 project2 project3 | [<span style="color: red;">no update</span>]() |
 
 ## DROPOUTS
+### If you fail to provide updates within deadlines you will be added to this list.
 
 | user            | project            |
 | --------------- | ------------------ |
 | your name here  | your project       |
-
-### If you fail to provide updates within deadlines you will be added to this list.
 
 ## REQUIREMENTS
 #### Fortnitely updates
