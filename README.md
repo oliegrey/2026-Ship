@@ -22,6 +22,7 @@
 
 ## DROPOUTS
 | user            | project            | last update               |
+| --------------- | ------------------ | ------------------------- |
 |                 |                    |                           |
 
 ### If you fail to provide updates within deadlines you will be added to this list.
