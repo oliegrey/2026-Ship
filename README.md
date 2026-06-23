@@ -1,5 +1,5 @@
 ## PARTICIPANTS
-### Next update deadline: 22nd June
+### Next update deadline: 6th July
 Please include the word "update" in your message so i can find it when i update this list.
 
 | user            | project            | last update               |
@@ -8,7 +8,7 @@ Please include the word "update" in your message so i can find it when i update 
 | bobrax          | puzzle/escape room | [<span style="color: green;">17/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1516776506272252054)   |
 | oliegrey        | saltminer (2d mmo) | [<span style="color: green;">19/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1517542105994629240) |
 | riverssjc       | 2d mmo             | [<span style="color: green;">21/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518100151430811719) |
-| barzenoki       | spacecraft tycoon  | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1510544363355115650) |
+| barzenoki       | spacecraft tycoon  | [<span style="color: green;">23/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518828247867981984) |
 | ickdanny        | SFE                | [<span style="color: green;">09/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1514008723142742147) |
 | .raged          | TBD                | [<span style="color: green;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518075845841780956) |
 | hyunahri        | not BSG            | [<span style="color: green;">12/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1514828576078172190) |
@@ -18,7 +18,7 @@ Please include the word "update" in your message so i can find it when i update 
 | eyy_lmao12      | Zombie Tower       | [<span style="color: green;">21/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518184984446373899) |
 | meesles         | project avalon     | [<span style="color: green;">19/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1517019748603269180) |
 | phalena_dev     | project ikusa      | [<span style="color: green;">19/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1517543809116803093) |
-| tyridge77       | project1 project2 project3 | [<span style="color: green;">no update</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518650722361671822) |
+| tyridge77       | project1 project2 project3 | [<span style="color: green;">22/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518650722361671822) |
 
 ## DROPOUTS
 ### If you fail to provide updates within deadlines you will be added to this list.
