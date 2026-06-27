@@ -7,7 +7,7 @@ Please include the word "update" in your message so i can find it when i update 
 | zonrox.         | autobattler        | [<span style="color: red;">13/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1515433139437310124) |
 | bobrax          | puzzle/escape room | [<span style="color: red;">17/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1516776506272252054)   |
 | oliegrey        | saltminer (2d mmo) | [<span style="color: red;">19/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1517542105994629240) |
-| riverssjc       | 2d mmo             | [<span style="color: red;">21/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518100151430811719) |
+| riverssjc       | 2d mmo             | [<span style="color: green;">27/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1520488059831980032) |
 | barzenoki       | spacecraft tycoon  | [<span style="color: red;">23/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518828247867981984) |
 | ickdanny        | SFE                | [<span style="color: green;">23/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1519093888755695647) |
 | .raged          | TBD                | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518075845841780956) |
