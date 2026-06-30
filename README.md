@@ -10,7 +10,7 @@ Please include the word "update" in your message so i can find it when i update 
 | riverssjc       | 2d mmo             | [<span style="color: green;">27/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1520488059831980032) |
 | barzenoki       | spacecraft tycoon  | [<span style="color: red;">23/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518828247867981984) |
 | ickdanny        | SFE                | [<span style="color: green;">23/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1519093888755695647) |
-| .raged          | TBD                | [<span style="color: red;">31/05/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518075845841780956) |
+| .raged          | TBD                | [<span style="color: green;">30/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1521583256770711572) |
 | hyunahri        | not BSG            | [<span style="color: red;">12/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1514828576078172190) |
 | cipherphantom37 | Project Axon       | [<span style="color: red;">19/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1517644333694718083) |
 | randomnes       | roguelike          | [<span style="color: red;">17/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1516686739257819238) |
