@@ -16,7 +16,7 @@ Please include the word "update" in your message so i can find it when i update 
 | randomnes       | roguelike          | [<span style="color: green;">02/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1522107936661311629) |
 | hapied12        | bluelock game      | [<span style="color: red;">21/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518263111331610775) |
 | eyy_lmao12      | Zombie Tower       | [<span style="color: red;">21/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518184984446373899) |
-| meesles         | project avalon     | [<span style="color: orange;">05/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523337673375481996) |
+| meesles         | project avalon     | [<span style="color: pink;">05/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523337673375481996) |
 | phalena_dev     | project ikusa      | [<span style="color: red;">19/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1517543809116803093) |
 | tyridge77       | project1 project2 project3 | [<span style="color: red;">22/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518650722361671822) |
 
