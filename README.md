@@ -11,7 +11,7 @@ Please include the word "update" in your message so i can find it when i update 
 | barzenoki       | spacecraft tycoon  | [<span style="color: red;">23/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518828247867981984) |
 | ickdanny        | SFE                | [<span style="color: green;">23/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1519093888755695647) |
 | .raged          | TBD                | [<span style="color: green;">30/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1521583256770711572) |
-| hyunahri        | not BSG            | [<span style="color: red;">12/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1514828576078172190) |
+| hyunahri        | not BSG            | [<span style="color: green;">06/07/2026</span>](https://discord.com/channels/85338836384628736/85338836384628736/1521727347617697802) |
 | cipherphantom37 | Project Axon       | [<span style="color: purple;">06/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523065054071885905) |
 | randomnes       | roguelike          | [<span style="color: green;">02/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1522107936661311629) |
 | hapied12        | bluelock game      | [<span style="color: red;">21/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518263111331610775) |
