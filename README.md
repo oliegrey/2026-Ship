@@ -1,31 +1,31 @@
 ## PARTICIPANTS
-### Next update deadline: 6th July
+### Next update deadline: 20th July
 Please include the word "update" in your message so i can find it when i update this list.
 
 | user            | project            | last update               |
 | --------------- | ------------------ | ------------------------- |
-| zonrox.         | autobattler        | [<span style="color: green;">01/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1521450036100075561) |
-| bobrax          | fire fighting game | [<span style="color: red;">17/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1516776506272252054)   |
-| oliegrey        | saltminer (2d mmo) | [<span style="color: blue;">06/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523799090746626190) |
-| riverssjc       | 2d mmo             | [<span style="color: green;">27/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1520488059831980032) |
-| barzenoki       | spacecraft tycoon  | [<span style="color: green;">06/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523803637623685230) |
-| ickdanny        | SFE                | [<span style="color: green;">23/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1519093888755695647) |
-| .raged          | TBD                | [<span style="color: green;">30/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1521583256770711572) |
-| hyunahri        | not BSG            | [<span style="color: green;">06/07/2026</span>](https://discord.com/channels/85338836384628736/85338836384628736/1521727347617697802) |
-| cipherphantom37 | Project Axon       | [<span style="color: purple;">06/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523065054071885905) |
-| randomnes       | roguelike          | [<span style="color: green;">02/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1522107936661311629) |
-| hapied12        | bluelock game      | [<span style="color: red;">21/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518263111331610775) |
-| eyy_lmao12      | Zombie Tower       | [<span style="color: red;">21/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518184984446373899) |
-| meesles         | project avalon     | [<span style="color: pink;">05/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523337673375481996) |
-| phalena_dev     | project ikusa      | [<span style="color: red;">19/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1517543809116803093) |
-| tyridge77       | project1 project2 project3 | [<span style="color: red;">22/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1518650722361671822) |
+| zonrox.         | autobattler        | [<span style="color: red;">01/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1521450036100075561) |
+| oliegrey        | saltminer (2d mmo) | [<span style="color: red;">06/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523799090746626190) |
+| riverssjc       | 2d mmo             | [<span style="color: red;">27/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1520488059831980032) |
+| barzenoki       | spacecraft tycoon  | [<span style="color: red;">06/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523803637623685230) |
+| ickdanny        | SFE                | [<span style="color: red;">23/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1519093888755695647) |
+| .raged          | TBD                | [<span style="color: red;">30/06/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1521583256770711572) |
+| hyunahri        | not BSG            | [<span style="color: red;">06/07/2026</span>](https://discord.com/channels/85338836384628736/85338836384628736/1521727347617697802) |
+| cipherphantom37 | Project Axon       | [<span style="color: red;">06/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523065054071885905) |
+| randomnes       | roguelike          | [<span style="color: red;">02/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1522107936661311629) |
+| meesles         | project avalon     | [<span style="color: red;">05/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523337673375481996) |
 
 ## DROPOUTS
 ### If you fail to provide updates within deadlines you will be added to this list.
 
-| user            | project            |
-| --------------- | ------------------ |
-| your name here  | your project       |
+| user            | project                    |
+| --------------- | -------------------------- |
+| bobrax          | fire fighting game         |
+| hapied12        | bluelock game              |
+| eyy_lmao12      | Zombie Tower               |
+| phalena_dev     | project ikusa              |
+| tyridge77       | project1 project2 project3 |
+
 
 ## REQUIREMENTS
 #### Fortnitely updates
