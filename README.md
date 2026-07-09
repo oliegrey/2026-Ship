@@ -13,7 +13,7 @@ Please include the word "update" in your message so i can find it when i update 
 | hyunahri        | not BSG            | [<span style="color: red;">06/07/2026</span>](https://discord.com/channels/85338836384628736/85338836384628736/1521727347617697802) |
 | cipherphantom37 | Project Axon       | [<span style="color: red;">06/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523065054071885905) |
 | randomnes       | roguelike          | [<span style="color: red;">02/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1522107936661311629) |
-| <span style="color: pink;">meesles</span> | project avalon     | [<span style="color: red;">05/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1523337673375481996) |
+| <span style="color: pink;">meesles</span> | project avalon     | [<span style="color: green;">09/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1524577266254741545) |
 
 ## DROPOUTS
 ### If you fail to provide updates within deadlines you will be added to this list.
