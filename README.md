@@ -13,7 +13,7 @@ Please include the word "update" in your message so i can find it when i update 
 | hyunahri        | not BSG            | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528448681529966735) |
 | cipherphantom37 | Project Axon       | [<span style="color: red;">18/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528100012834422785) |
 | randomnes       | roguelike          | [<span style="color: red;">12/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1525835840516001955) |
-| <span style="color: pink;">meesles</span> | project avalon     | [<span style="color: red;">15/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1527069374052302888) |
+| <span style="color: #89cff0;">meesles</span> | project avalon     | [<span style="color: red;">15/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1527069374052302888) |
 | <span style="color: brown;">bobrax</span> | fire fighting game | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528440709609160734) |
 
 ## DROPOUTS
