@@ -6,7 +6,7 @@ Please include the word "update" in your message so i can find it when i update 
 | --------------- | ------------------ | ------------------------- |
 | zonrox.         | autobattler        | [<span style="color: red;">11/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1525612908397199522) |
 | oliegrey        | saltminer (2d mmo) | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528451525611880681) |
-| riverssjc       | 2d mmo             | [<span style="color: red;">07/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1524094719267831808) |
+| <span style="color: red;">riverssjc</span> | 2d mmo             | [<span style="color: green;">20/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528844758905126963) |
 | barzenoki       | spacecraft tycoon  | [<span style="color: red;">20/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528839458923876473) |
 | ickdanny        | SFE                | [<span style="color: red;">11/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1525346965582381148) |
 | <span style="color: orange;">.raged</span> | Fucktio | [<span style="color: red;">15/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1527021089035911279) |
