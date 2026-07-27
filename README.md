@@ -8,7 +8,7 @@ Please include the word "update" in your message so i can find it when i update 
 | oliegrey        | saltminer (2d mmo) | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528451525611880681) |
 | <span style="color: red;">riverssjc</span> | 2d mmo | [<span style="color: green;">22/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1529545139591319793) |
 | barzenoki       | spacecraft tycoon  | [<span style="color: red;">20/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528839458923876473) |
-| ickdanny        | SFE                | [<span style="color: red;">11/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1525346965582381148) |
+| ickdanny        | SFE                | [<span style="color: green;">27/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531122988387405884) |
 | <span style="color: orange;">.raged</span> | Fucktio | [<span style="color: green;">21/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1529210267890618530) |
 | hyunahri        | not BSG            | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528448681529966735) |
 | cipherphantom37 | Project Axon       | [<span style="color: red;">18/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528100012834422785) |
