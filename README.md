@@ -12,7 +12,7 @@ Please include the word "update" in your message so i can find it when i update 
 | <span style="color: orange;">.raged</span> | Fucktio | [<span style="color: green;">21/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1529210267890618530) |
 | hyunahri        | not BSG            | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528448681529966735) |
 | cipherphantom37 | Project Axon       | [<span style="color: red;">18/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528100012834422785) |
-| randomnes       | roguelike          | [<span style="color: red;">28/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531439906281488445) |
+| randomnes       | roguelike          | [<span style="color: green;">28/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531439906281488445) |
 | <span style="color: #89cff0;">meesles</span> | project avalon | [<span style="color: green;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
 | <span style="color: pink;">bobrax</span> | fire fighting game | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528440709609160734) |
 
