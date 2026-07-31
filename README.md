@@ -24,6 +24,8 @@ Please include the word "update" in your message so i can find it when i update 
 | oliegrey        |  |
 | hyunahri        |  |
 | cipherphantom37 |  |
+| meesles         |  |
+| zonrox.         |  |
 
 ## <span style="color:#B22222">DROPOUTS</span>
 ### If you fail to provide updates within deadlines you will be added to this list.
