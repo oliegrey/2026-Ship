@@ -1,8 +1,8 @@
-## PARTICIPANTS
+## <span style="color:navy">MAIN CHALLENGE PARTICIPANTS</span>
 ### Next update deadline: 3rd August
 Please include the word "update" in your message so i can find it when i update this list.
 
-<span style="color:navy">| user            | project            | last update               |
+| user            | project            | last update               |
 | --------------- | ------------------ | ------------------------- |
 | zonrox.         | autobattler        | [<span style="color: green;">23/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1529424204242616430) |
 | oliegrey        | saltminer (2d mmo) | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528451525611880681) |
@@ -14,25 +14,25 @@ Please include the word "update" in your message so i can find it when i update 
 | cipherphantom37 | Project Axon       | [<span style="color: red;">18/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528100012834422785) |
 | randomnes       | roguelike          | [<span style="color: green;">28/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531439906281488445) |
 | meesles         | project avalon | [<span style="color: green;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
-| bobrax          | fire fighting game | [<span style="color: green;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |</span>
+| bobrax          | fire fighting game | [<span style="color: green;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |
 
-## DEMO/VERTICAL SLICE PARTICIPANTS
+## <span style="color:blue">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 ### deadline: September 13th
 
-<span style="color:blue">| user     | demo link                   |
+| user     | demo link                   |
 | -------- | --------------------------- |
 | oliegrey |  |
-| hyunahri |  |</span>
+| hyunahri |  |
 
-## DROPOUTS
+## <span style="color:red">DROPOUTS</span>
 ### If you fail to provide updates within deadlines you will be added to this list.
 
-<span style="color:red">| user            | project                    |
+| user            | project                    |
 | --------------- | -------------------------- |
 | hapied12        | bluelock game              |
 | eyy_lmao12      | Zombie Tower               |
 | phalena_dev     | project ikusa              |
-| tyridge77       | project1 project2 project3 |</span>
+| tyridge77       | project1 project2 project3 |
 
 ## REQUIREMENTS
 #### Fortnitely updates
