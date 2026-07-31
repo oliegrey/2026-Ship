@@ -2,35 +2,43 @@
 ### Next update deadline: 3rd August
 Please include the word "update" in your message so i can find it when i update this list.
 
+<span style="color:navy">
 | user            | project            | last update               |
 | --------------- | ------------------ | ------------------------- |
 | zonrox.         | autobattler        | [<span style="color: green;">23/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1529424204242616430) |
 | oliegrey        | saltminer (2d mmo) | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528451525611880681) |
-| <span style="color: red;">riverssjc</span> | 2d mmo | [<span style="color: green;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531820981285552249) |
+| riverssjc | 2d mmo | [<span style="color: green;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531820981285552249) |
 | barzenoki       | spacecraft tycoon  | [<span style="color: red;">20/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528839458923876473) |
 | ickdanny        | SFE                | [<span style="color: green;">31/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532583695838347405) |
-| <span style="color: orange;">.raged</span> | Fucktio | [<span style="color: green;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532035849057730714) |
+| .raged          | Fucktio | [<span style="color: green;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532035849057730714) |
 | hyunahri        | not BSG            | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528448681529966735) |
 | cipherphantom37 | Project Axon       | [<span style="color: red;">18/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528100012834422785) |
 | randomnes       | roguelike          | [<span style="color: green;">28/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531439906281488445) |
-| <span style="color: #89cff0;">meesles</span> | project avalon | [<span style="color: green;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
-| <span style="color: pink;">bobrax</span> | fire fighting game | [<span style="color: green;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |
+| meesles         | project avalon | [<span style="color: green;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
+| bobrax          | fire fighting game | [<span style="color: green;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |
+<\span>
 
-### Demo/vertical slice deadline: September 13th
-| user     | demo link |
-| oliegrey |           |
-| hyunahri |           |
+## DEMO/VERTICAL SLICE PARTICIPANTS
+### deadline: September 13th
+
+<span style="color:blue">
+| user     | demo link                   |
+| -------- | --------------------------- |
+| oliegrey |  |
+| hyunahri |  |
+<\span>
 
 ## DROPOUTS
 ### If you fail to provide updates within deadlines you will be added to this list.
 
+<span style="color:red">
 | user            | project                    |
 | --------------- | -------------------------- |
 | hapied12        | bluelock game              |
 | eyy_lmao12      | Zombie Tower               |
 | phalena_dev     | project ikusa              |
 | tyridge77       | project1 project2 project3 |
-
+</span>
 
 ## REQUIREMENTS
 #### Fortnitely updates
