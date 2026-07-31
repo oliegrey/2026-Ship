@@ -14,7 +14,7 @@ Please include the word "update" in your message so i can find it when i update 
 | cipherphantom37 | Project Axon       | [<span style="color: red;">18/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528100012834422785) |
 | randomnes       | roguelike          | [<span style="color: green;">28/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531439906281488445) |
 | meesles         | project avalon | [<span style="color: green;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
-| bobrax          | fire fighting game | [<span style="color: green;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |<\span>
+| bobrax          | fire fighting game | [<span style="color: green;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |</span>
 
 ## DEMO/VERTICAL SLICE PARTICIPANTS
 ### deadline: September 13th
@@ -22,7 +22,7 @@ Please include the word "update" in your message so i can find it when i update 
 <span style="color:blue">| user     | demo link                   |
 | -------- | --------------------------- |
 | oliegrey |  |
-| hyunahri |  |<\span>
+| hyunahri |  |</span>
 
 ## DROPOUTS
 ### If you fail to provide updates within deadlines you will be added to this list.
