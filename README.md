@@ -25,7 +25,7 @@ Please include the word "update" in your message so i can find it when i update 
 | hyunahri        |  |
 | cipherphantom37 |  |
 
-## <span style="color:red">DROPOUTS</span>
+## <span style="color:#B22222">DROPOUTS</span>
 ### If you fail to provide updates within deadlines you will be added to this list.
 
 | user            | project                    |
