@@ -16,6 +16,11 @@ Please include the word "update" in your message so i can find it when i update 
 | <span style="color: #89cff0;">meesles</span> | project avalon | [<span style="color: green;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
 | <span style="color: pink;">bobrax</span> | fire fighting game | [<span style="color: green;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |
 
+### Demo/vertical slice deadline: September 13th
+| user     | demo link |
+| oliegrey |           |
+| hyunahri |           |
+
 ## DROPOUTS
 ### If you fail to provide updates within deadlines you will be added to this list.
 
