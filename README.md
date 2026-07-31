@@ -1,4 +1,4 @@
-## <span style="color:navy">MAIN CHALLENGE PARTICIPANTS</span>
+## <span style="color:#6495ED">MAIN CHALLENGE PARTICIPANTS</span>
 ### Next update deadline: 3rd August
 Please include the word "update" in your message so i can find it when i update this list.
 
@@ -16,7 +16,7 @@ Please include the word "update" in your message so i can find it when i update 
 | meesles         | project avalon     | [<span style="color: green;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
 | bobrax          | fire fighting game | [<span style="color: green;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |
 
-## <span style="color:blue">DEMO/VERTICAL SLICE PARTICIPANTS</span>
+## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 ### deadline: September 13th
 
 | user            | demo link                   |
