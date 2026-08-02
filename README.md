@@ -7,7 +7,7 @@ Please include the word "update" in your message so i can find it when i update 
 | zonrox.         | autobattler        | [<span style="color: green;">23/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1529424204242616430) |
 | oliegrey        | saltminer (2d mmo) | [<span style="color: green;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533547107011530764) |
 | riverssjc       | 2d mmo             | [<span style="color: green;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531820981285552249) |
-| barzenoki       | spacecraft tycoon  | [<span style="color: red;">20/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528839458923876473) |
+| barzenoki       | spacecraft tycoon  | [<span style="color: green;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533555545515098152) |
 | ickdanny        | SFE                | [<span style="color: green;">31/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532583695838347405) |
 | .raged          | Fucktio            | [<span style="color: green;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532035849057730714) |
 | hyunahri        | not BSG            | [<span style="color: red;">19/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1528448681529966735) |
