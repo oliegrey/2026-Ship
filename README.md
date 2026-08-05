@@ -1,21 +1,21 @@
 ## <span style="color:#6495ED">MAIN CHALLENGE PARTICIPANTS</span>
-### Next update deadline: August 3rd
+### Next update deadline: August 17th
 Please include the word "update" in your message so i can find it when i update this list.
 
-| user            | project            | last update               |
-| --------------- | ------------------ | ------------------------- |
-| zonrox.         | autobattler        | [<span style="color: green;">23/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1529424204242616430) |
-| oliegrey        | saltminer (2d mmo) | [<span style="color: green;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533547107011530764) |
-| riverssjc       | 2d mmo             | [<span style="color: green;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531820981285552249) |
-| barzenoki       | spacecraft tycoon  | [<span style="color: green;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533555545515098152) |
-| ickdanny        | SFE                | [<span style="color: green;">31/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532583695838347405) |
-| .raged          | Fucktio            | [<span style="color: green;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532035849057730714) |
-| hyunahri        | not BSG            | [<span style="color: green;">03/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533909018387415141) |
-| cipherphantom37 | Project Axon       | [<span style="color: green;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533272582885998733) |
-| randomnes       | roguelike          | [<span style="color: green;">28/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531439906281488445) |
-| meesles         | project avalon     | [<span style="color: green;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
-| bobrax          | fire fighting game | [<span style="color: green;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |
-| catgamedev | TBD, Combat Arena Tactics | <span style="color: red;">NO UPDATES</span> |
+| user            | project                   | last update               |
+| --------------- | ------------------------- | ------------------------- |
+| zonrox.         | autobattler               | [<span style="color: red;">23/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1529424204242616430) |
+| oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533547107011530764) |
+| riverssjc       | 2d mmo                    | [<span style="color: red;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531820981285552249) |
+| barzenoki       | spacecraft tycoon         | [<span style="color: red;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533555545515098152) |
+| ickdanny        | SFE                       | [<span style="color: red;">31/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532583695838347405) |
+| .raged          | Fucktio                   | [<span style="color: red;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532035849057730714) |
+| hyunahri        | not BSG                   | [<span style="color: red;">03/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533909018387415141) |
+| cipherphantom37 | Project Axon              | [<span style="color: red;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533272582885998733) |
+| randomnes       | roguelike                 | [<span style="color: red;">28/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531439906281488445) |
+| meesles         | project avalon            | [<span style="color: red;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
+| bobrax          | fire fighting game        | [<span style="color: red;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |
+| catgamedev      | TBD, Combat Arena Tactics | <span style="color: red;">NO UPDATES</span> |
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 ### Deadline: September 13th
