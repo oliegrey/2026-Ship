@@ -4,7 +4,7 @@ Please include the word "update" in your message so i can find it when i update 
 
 | user            | project                   | last update               |
 | --------------- | ------------------------- | ------------------------- |
-| zonrox.         | autobattler               | [<span style="color: red;">23/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1529424204242616430) |
+| zonrox.         | autobattler               | [<span style="color: green;">09/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1534854104923373568) |
 | oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533547107011530764) |
 | riverssjc       | 2d mmo                    | [<span style="color: red;">29/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1531820981285552249) |
 | barzenoki       | spacecraft tycoon         | [<span style="color: red;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535167768318574592) |
