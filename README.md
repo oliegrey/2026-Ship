@@ -13,7 +13,7 @@ Please include the word "update" in your message so i can find it when i update 
 | hyunahri        | not BSG                   | [<span style="color: red;">03/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533909018387415141) |
 | cipherphantom37 | Project Axon              | [<span style="color: red;">02/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1533272582885998733) |
 | randomnes       | roguelike                 | [<span style="color: green;">08/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535603898226835496) |
-| meesles         | project avalon            | [<span style="color: red;">25/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1530412154069585991) |
+| meesles         | project avalon            | [<span style="color: green;">09/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1536054643837112451) |
 | bobrax          | fire fighting game        | [<span style="color: red;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |
 | catgamedev      | TBD, Combat Arena Tactics | <span style="color: red;">NO UPDATES</span> |
 
