@@ -15,7 +15,7 @@ Please include the word "update" in your message so i can find it when i update 
 | randomnes       | roguelike                 | [<span style="color: green;">08/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535603898226835496) |
 | meesles         | project avalon            | [<span style="color: green;">09/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1536054643837112451) |
 | bobrax          | fire fighting game        | [<span style="color: red;">30/07/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532415498191376602) |
-| catgamedev      | TBD, Combat Arena Tactics | <span style="color: red;">NO UPDATES</span> |
+| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: green;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538929754898440304)  |
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 ### Deadline: September 13th
