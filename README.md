@@ -21,7 +21,6 @@ Please include the word "update" in your message so i can find it when i update 
 | user            | demo link                   |
 | --------------- | --------------------------- |
 | oliegrey        |  |
-| hyunahri        |  |
 | cipherphantom37 |  |
 | meesles         |  |
 | zonrox.         |  |
