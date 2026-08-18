@@ -1,19 +1,19 @@
 ## <span style="color:#6495ED">MAIN CHALLENGE PARTICIPANTS</span>
-### Next update deadline: August 17th
+### Next update deadline: August 31st
 Please include the word "update" in your message so i can find it when i update this list.
 
 | user            | project                   | last update               |
 | --------------- | ------------------------- | ------------------------- |
-| zonrox.         | autobattler               | [<span style="color: green;">06/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1534854104923373568) |
-| oliegrey        | saltminer (2d mmo)        | [<span style="color: green;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538925161414397962) |
-| riverssjc       | 2d mmo                    | [<span style="color: green;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538611715602649138) |
-| barzenoki       | spacecraft tycoon         | [<span style="color: green;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538413373312737290) |
-| ickdanny        | SFE                       | [<span style="color: green;">07/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532583695838347405) |
-| .raged          | Fucktio                   | [<span style="color: green;">07/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535298535577092107) |
-| cipherphantom37 | Project Axon              | [<span style="color: green;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538679940109705226) |
-| randomnes       | roguelike                 | [<span style="color: green;">08/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535603898226835496) |
-| meesles         | project avalon            | [<span style="color: green;">09/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1536054643837112451) |
-| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: green;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538929754898440304)  |
+| zonrox.         | autobattler               | [<span style="color: red;">06/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1534854104923373568) |
+| oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538925161414397962) |
+| riverssjc       | 2d mmo                    | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538611715602649138) |
+| barzenoki       | spacecraft tycoon         | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538413373312737290) |
+| ickdanny        | SFE                       | [<span style="color: red;">07/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1532583695838347405) |
+| .raged          | Fucktio                   | [<span style="color: red;">07/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535298535577092107) |
+| cipherphantom37 | Project Axon              | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538679940109705226) |
+| randomnes       | roguelike                 | [<span style="color: red;">08/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535603898226835496) |
+| meesles         | project avalon            | [<span style="color: red;">09/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1536054643837112451) |
+| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538929754898440304)  |
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 ### Deadline: September 13th
