@@ -13,7 +13,8 @@ Please include the word "update" in your message so i can find it when i update 
 | cipherphantom37 | Project Axon              | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538679940109705226) |
 | randomnes       | roguelike                 | [<span style="color: red;">08/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535603898226835496) |
 | meesles         | project avalon            | [<span style="color: red;">09/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1536054643837112451) |
-| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538929754898440304)  |
+| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538929754898440304) |
+| hallojoby       | jobySurf                  | <span style="color: red;">NO UPDATES</span> |
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 ### Deadline: September 13th
