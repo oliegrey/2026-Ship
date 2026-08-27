@@ -11,7 +11,7 @@ Please include the word "update" in your message so i can find it when i update 
 | ickdanny        | SFE                       | [<span style="color: green;">24/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1541265058686836848) |
 | .raged          | Fucktio                   | [<span style="color: red;">07/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535298535577092107) |
 | cipherphantom37 | Project Axon              | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538679940109705226) |
-| randomnes       | roguelike                 | [<span style="color: green;">08/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1542404330869760040) |
+| randomnes       | roguelike                 | [<span style="color: green;">27/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1542404330869760040) |
 | meesles         | project avalon            | [<span style="color: red;">09/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1536054643837112451) |
 | catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538929754898440304) |
 | hallojoby       | jobySurf                  | [<span style="color: green;">24/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1541177169273815131) | 
