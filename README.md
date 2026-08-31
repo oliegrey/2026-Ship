@@ -7,7 +7,7 @@ Please include the word "update" in your message so i can find it when i update 
 | zonrox.         | autobattler               | [<span style="color: green;">22/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1540732892056125530) |
 | oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538925161414397962) |
 | riverssjc       | 2d mmo                    | [<span style="color: green;">28/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1543017799050469417) |
-| barzenoki       | spacecraft tycoon         | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538413373312737290) |
+| barzenoki       | spacecraft tycoon         | [<span style="color: green;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1543880272058253342) |
 | ickdanny        | SFE                       | [<span style="color: green;">24/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1541265058686836848) |
 | .raged          | Fucktio                   | [<span style="color: red;">07/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535298535577092107) |
 | cipherphantom37 | Project Axon              | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538679940109705226) |
