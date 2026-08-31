@@ -26,16 +26,16 @@ Please include the word "update" in your message so i can find it when i update 
 ## <span style="color:#B22222">DROPOUTS</span>
 ### If you fail to provide updates within deadlines you will be added to this list.
 
-| dropouts        |
-| --------------- | 
-| hapied12        |
-| eyy_lmao12      |
-| phalena_dev     |
-| tyridge77       |
-| bobrax          |
-| hyunahri        | 
-| .raged          | 
-| meesles         |
+| user            | reason                                   |
+| --------------- | ---------------------------------------- |
+| hapied12        | no update given                          |
+| eyy_lmao12      | no update given                          |
+| phalena_dev     | left server                              |
+| tyridge77       | no update given                          |
+| bobrax          | no update given x2                       |
+| hyunahri        | no update given                          |
+| .raged          | too busy with life                       |
+| meesles         | prefers continuing without the challenge |
 
 ## REQUIREMENTS
 #### Fortnitely updates
