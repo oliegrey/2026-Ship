@@ -21,22 +21,21 @@ Please include the word "update" in your message so i can find it when i update 
 | --------------- | --------------------------- |
 | oliegrey        |  |
 | cipherphantom37 |  |
-| meesles         |  |
 | zonrox.         |  |
-| meesles         |  |
-| .raged          |  |
 
 ## <span style="color:#B22222">DROPOUTS</span>
 ### If you fail to provide updates within deadlines you will be added to this list.
 
-| user            | project                    |
-| --------------- | -------------------------- |
-| hapied12        | bluelock game              |
-| eyy_lmao12      | Zombie Tower               |
-| phalena_dev     | project ikusa              |
-| tyridge77       | project1 project2 project3 |
-| bobrax          | fire fighting game         |
-| hyunahri        | not BSG                    |
+| dropouts        |
+| --------------- | 
+| hapied12        |
+| eyy_lmao12      |
+| phalena_dev     |
+| tyridge77       |
+| bobrax          |
+| hyunahri        | 
+| .raged          | 
+| meesles         |
 
 ## REQUIREMENTS
 #### Fortnitely updates
