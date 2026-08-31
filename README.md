@@ -10,7 +10,7 @@ Please include the word "update" in your message so i can find it when i update 
 | barzenoki       | spacecraft tycoon         | [<span style="color: green;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1543880272058253342) |
 | ickdanny        | SFE                       | [<span style="color: green;">24/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1541265058686836848) |
 | .raged          | Fucktio                   | [<span style="color: red;">07/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1535298535577092107) |
-| cipherphantom37 | Project Axon              | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538679940109705226) |
+| cipherphantom37 | Project Axon              | [<span style="color: green;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544038964577439925) |
 | randomnes       | roguelike                 | [<span style="color: green;">27/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1542404330869760040) |
 | meesles         | project avalon            | [<span style="color: red;">09/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1536054643837112451) |
 | catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538929754898440304) |
