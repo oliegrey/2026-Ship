@@ -11,7 +11,7 @@ Please include the word "update" in your message so i can find it when i update 
 | ickdanny        | SFE                       | [<span style="color: green;">24/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1541265058686836848) |
 | cipherphantom37 | Project Axon              | [<span style="color: green;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544038964577439925) |
 | randomnes       | roguelike                 | [<span style="color: green;">27/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1542404330869760040) |
-| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">16/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1538929754898440304) |
+| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: green;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544167523346419805) |
 | hallojoby       | jobySurf                  | [<span style="color: green;">24/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1541177169273815131) | 
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
