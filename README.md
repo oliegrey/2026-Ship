@@ -8,9 +8,9 @@ Please include the word "update" in your message so i can find it when i update 
 | oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544036993040785450) |
 | riverssjc       | 2d mmo                    | [<span style="color: green;">02/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544788539219382406) |
 | barzenoki       | spacecraft tycoon         | [<span style="color: red;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1543880272058253342) |
-| ickdanny        | SFE                       | [<span style="color: green;">06/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1546047745398411314) |
+| ickdanny        | SFE                       | [<span style="color: green;">09/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1546708715833524264) |
 | cipherphantom37 | Project Axon              | [<span style="color: red;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544038964577439925) |
-| randomnes       | roguelike                 | [<span style="color: red;">27/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1542404330869760040) |
+| randomnes       | roguelike                 | [<span style="color: green;">09/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1546711089214128128) |
 | catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544167523346419805) |
 | hallojoby       | jobySurf                  | [<span style="color: red;">24/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1541177169273815131) | 
 
