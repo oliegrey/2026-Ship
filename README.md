@@ -4,10 +4,10 @@ Please include the word "update" in your message so i can find it when i update 
 
 | user            | project                   | last update               |
 | --------------- | ------------------------- | ------------------------- |
-| zonrox.         | autobattler               | [<span style="color: red;">22/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1540732892056125530) |
-| oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544036993040785450) |
+| zonrox.         | autobattler               | [<span style="color: green;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1547937300556681307) |
+| oliegrey        | saltminer (2d mmo)        | [<span style="color: green;">14/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549276583431508070) |
 | riverssjc       | 2d mmo                    | [<span style="color: green;">02/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544788539219382406) |
-| barzenoki       | spacecraft tycoon         | [<span style="color: red;">31/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1543880272058253342) |
+| barzenoki       | spacecraft tycoon         | [<span style="color: green;">13/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548552045995495526) |
 | ickdanny        | SFE                       | [<span style="color: green;">09/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1546708715833524264) |
 | cipherphantom37 | Project Axon              | [<span style="color: green;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548283431467622531) |
 | randomnes       | roguelike                 | [<span style="color: green;">09/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1546711089214128128) |
@@ -15,13 +15,12 @@ Please include the word "update" in your message so i can find it when i update 
 | hallojoby       | jobySurf                  | [<span style="color: red;">24/08/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1541177169273815131) | 
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
-### Deadline: September 13th
 
 | user            | demo link                   |
 | --------------- | --------------------------- |
-| oliegrey        |  |
-| cipherphantom37 |  |
-| zonrox.         |  |
+| oliegrey        | TBD |
+| cipherphantom37 | private |
+| zonrox.         | TBD |
 
 ## <span style="color:#B22222">DROPOUTS</span>
 ### If you fail to provide updates within deadlines you will be added to this list.
