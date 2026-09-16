@@ -4,15 +4,15 @@ Please include the word "update" in your message so i can find it when i update 
 
 | user            | project                   | last update               |
 | --------------- | ------------------------- | ------------------------- |
-| zonrox.         | autobattler               | [<span style="color: green;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1547937300556681307) |
-| oliegrey        | saltminer (2d mmo)        | [<span style="color: green;">14/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549276583431508070) |
-| riverssjc       | 2d mmo                    | [<span style="color: green;">02/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544788539219382406) |
-| barzenoki       | spacecraft tycoon         | [<span style="color: green;">13/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548552045995495526) |
-| ickdanny        | SFE                       | [<span style="color: green;">09/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1546708715833524264) |
-| cipherphantom37 | Project Axon              | [<span style="color: green;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548283431467622531) |
-| randomnes       | roguelike                 | [<span style="color: green;">09/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1546711089214128128) |
-| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: green;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548009390122991668) |
-| hallojoby       | jobySurf                  | [<span style="color: green;">13/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549287344769601547) | 
+| zonrox.         | autobattler               | [<span style="color: red;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1547937300556681307) |
+| oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">14/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549276583431508070) |
+| riverssjc       | 2d mmo                    | [<span style="color: red;">02/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1544788539219382406) |
+| barzenoki       | spacecraft tycoon         | [<span style="color: red;">13/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548552045995495526) |
+| ickdanny        | SFE                       | [<span style="color: green;">16/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549626315869786113) |
+| cipherphantom37 | Project Axon              | [<span style="color: red;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548283431467622531) |
+| randomnes       | roguelike                 | [<span style="color: red;">09/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1546711089214128128) |
+| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548009390122991668) |
+| hallojoby       | jobySurf                  | [<span style="color: red;">13/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549287344769601547) | 
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 
