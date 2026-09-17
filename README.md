@@ -19,7 +19,7 @@ Please include the word "update" in your message so i can find it when i update 
 | user            | demo link                   |
 | --------------- | --------------------------- |
 | oliegrey        | TBD |
-| cipherphantom37 | private |
+| cipherphantom37 | DM for link |
 | zonrox.         | TBD |
 
 ## <span style="color:#B22222">DROPOUTS</span>
