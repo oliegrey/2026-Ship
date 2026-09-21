@@ -8,9 +8,9 @@ Please include the word "update" in your message so i can find it when i update 
 | oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">14/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549276583431508070) |
 | riverssjc       | 2d mmo                    | [<span style="color: green;">16/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549868773748637777) |
 | barzenoki       | spacecraft tycoon         | [<span style="color: red;">13/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548552045995495526) |
-| ickdanny        | SFE                       | [<span style="color: green;">16/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549626315869786113) |
-| cipherphantom37 | Project Axon              | [<span style="color: red;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548283431467622531) |
-| randomnes       | roguelike                 | [<span style="color: red;">09/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1546711089214128128) |
+| ickdanny        | SFE                       | [<span style="color: green;">16/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1550340329469771897) |
+| cipherphantom37 | Project Axon              | [<span style="color: red;">18/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548283431467622531) |
+| randomnes       | roguelike                 | [<span style="color: green;">19/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1550700742807912491) |
 | catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548009390122991668) |
 | hallojoby       | jobySurf                  | [<span style="color: red;">13/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549287344769601547) | 
 
