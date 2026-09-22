@@ -20,6 +20,7 @@ Please include the word "update" in your message so i can find it when i update 
 | --------------- | --------------------------- |
 | oliegrey        | https://saltminer.netlify.app/ |
 | cipherphantom37 | DM for link |
+| catgamedev      | Ask for key |
 
 ## <span style="color:#B22222">DROPOUTS</span>
 ### If you fail to provide updates within deadlines you will be added to this list.
