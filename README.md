@@ -1,3 +1,5 @@
+<iframe src="https://countingdownto.com/?c=7367149" width="499" height="256" style="border:none;" title="Countdown"></iframe>
+
 ## <span style="color:#6495ED">MAIN CHALLENGE PARTICIPANTS</span>
 ### Next update deadline: September 28th
 Please include the word "update" in your message so i can find it when i update this list.
