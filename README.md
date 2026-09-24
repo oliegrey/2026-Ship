@@ -1,4 +1,4 @@
-<iframe width="499" height="256" src="https://w2.countingdownto.com/7367149" frameborder="0"></iframe>
+<iframe width="550" height="300" src="https://w2.countingdownto.com/7367149" frameborder="0"></iframe>
 
 ## <span style="color:#6495ED">MAIN CHALLENGE PARTICIPANTS</span>
 ### Next update deadline: September 28th
