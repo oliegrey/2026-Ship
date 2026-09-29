@@ -19,7 +19,7 @@ Please include the word "update" in your message so i can find it when i update 
 | barzenoki       | spacecraft tycoon         | [<span style="color: green;">28/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1554148475745214515) |
 | ickdanny        | SFE                       | [<span style="color: green;">25/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1552897846322274425) |
 | cipherphantom37 | Project Axon              | [<span style="color: green;">28/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1554225573901897781) |
-| randomnes       | roguelike                 | [<span style="color: green;">19/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1550700742807912491) |
+| randomnes       | roguelike                 | [<span style="color: green;">29/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1554349879168471081) |
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 
