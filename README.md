@@ -20,8 +20,6 @@ Please include the word "update" in your message so i can find it when i update 
 | ickdanny        | SFE                       | [<span style="color: green;">25/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1552897846322274425) |
 | cipherphantom37 | Project Axon              | [<span style="color: green;">28/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1554225573901897781) |
 | randomnes       | roguelike                 | [<span style="color: green;">19/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1550700742807912491) |
-| catgamedev      | TBD, Combat Arena Tactics | [<span style="color: red;">11/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1548009390122991668) |
-| hallojoby       | jobySurf                  | [<span style="color: red;">13/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1549287344769601547) | 
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 
@@ -44,6 +42,8 @@ Please include the word "update" in your message so i can find it when i update 
 | hyunahri        | no update given                          |
 | .raged          | too busy with life                       |
 | meesles         | prefers continuing without the challenge |
+| hallojoby       | no update given                          |
+| catgamedev      | no update given                          |
 
 ## REQUIREMENTS
 #### Fortnitely updates
