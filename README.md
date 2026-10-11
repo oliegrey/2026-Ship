@@ -14,7 +14,7 @@ Please include the word "update" in your message so i can find it when i update 
 | user            | project                   | last update               |
 | --------------- | ------------------------- | ------------------------- |
 | zonrox.         | autobattler               | [<span style="color: red;">26/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1553216606249951302) |
-| oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">28/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1554266841629859922) |
+| oliegrey        | saltminer (2d mmo)        | [<span style="color: green;">11/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1558883418174132225) |
 | riverssjc       | 2d mmo                    | [<span style="color: green;">01/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1555338305099276298) |
 | barzenoki       | spacecraft tycoon         | [<span style="color: red;">28/09/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1554148475745214515) |
 | ickdanny        | SFE                       | [<span style="color: green;">05/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1556424280882024481) |
