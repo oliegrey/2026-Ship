@@ -8,7 +8,7 @@
 </iframe>
 
 ## <span style="color:#6495ED">MAIN CHALLENGE PARTICIPANTS</span>
-### Next update deadline: October 12th
+### Next update deadline: October 26th
 Please include the word "update" in your message so i can find it when i update this list.
 
 | user            | project                   | last update               |
