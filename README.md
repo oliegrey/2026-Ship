@@ -16,7 +16,6 @@ Please include the word "update" in your message so i can find it when i update 
 | zonrox.         | autobattler               | [<span style="color: green;">24/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1563682400871915562) |
 | oliegrey        | saltminer (2d mmo)        | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564309666492719196) |
 | riverssjc       | 2d mmo                    | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564347711002509313) |
-| barzenoki       | spacecraft tycoon         | [<span style="color: red;">12/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1559224079095959667) |
 | ickdanny        | SFE                       | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564048882134949939) |
 | cipherphantom37 | Project Axon              | [<span style="color: green;">25/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1563972452051189762) |
 | randomnes       | roguelike                 | [<span style="color: green;">18/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1561281331931906101) |
@@ -44,6 +43,7 @@ Please include the word "update" in your message so i can find it when i update 
 | meesles         | prefers continuing without the challenge |
 | hallojoby       | no update given                          |
 | catgamedev      | no update given                          |
+| barzenoki       | not enough time for project demands      |
 
 ## REQUIREMENTS
 #### Fortnitely updates
