@@ -15,7 +15,7 @@ Please include the word "update" in your message so i can find it when i update 
 | --------------- | ------------------------- | ------------------------- |
 | zonrox.         | autobattler               | [<span style="color: green;">24/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1563682400871915562) |
 | oliegrey        | saltminer (2d mmo)        | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564309666492719196) |
-| riverssjc       | 2d mmo                    | [<span style="color: red;">01/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1555338305099276298) |
+| riverssjc       | 2d mmo                    | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564347711002509313) |
 | barzenoki       | spacecraft tycoon         | [<span style="color: red;">12/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1559224079095959667) |
 | ickdanny        | SFE                       | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564048882134949939) |
 | cipherphantom37 | Project Axon              | [<span style="color: green;">25/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1563972452051189762) |
