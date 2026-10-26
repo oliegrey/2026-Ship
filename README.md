@@ -14,10 +14,10 @@ Please include the word "update" in your message so i can find it when i update 
 | user            | project                   | last update               |
 | --------------- | ------------------------- | ------------------------- |
 | zonrox.         | autobattler               | [<span style="color: red;">12/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1559091779129573448) |
-| oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">11/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1558883418174132225) |
+| oliegrey        | saltminer (2d mmo)        | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564309666492719196) |
 | riverssjc       | 2d mmo                    | [<span style="color: red;">01/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1555338305099276298) |
 | barzenoki       | spacecraft tycoon         | [<span style="color: red;">12/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1559224079095959667) |
-| ickdanny        | SFE                       | [<span style="color: green;">13/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1559362450456055829) |
+| ickdanny        | SFE                       | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564048882134949939) |
 | cipherphantom37 | Project Axon              | [<span style="color: green;">25/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1563972452051189762) |
 | randomnes       | roguelike                 | [<span style="color: green;">18/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1561281331931906101) |
 
