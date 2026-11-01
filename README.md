@@ -8,17 +8,17 @@
 </iframe>
 
 ## <span style="color:#6495ED">MAIN CHALLENGE PARTICIPANTS</span>
-### Next update deadline: October 26th
+### Next update deadline: November 9th
 Please include the word "update" in your message so i can find it when i update this list.
 
 | user            | project                   | last update               |
 | --------------- | ------------------------- | ------------------------- |
-| zonrox.         | autobattler               | [<span style="color: green;">24/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1563682400871915562) |
-| oliegrey        | saltminer (2d mmo)        | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564309666492719196) |
-| riverssjc       | 2d mmo                    | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564347711002509313) |
-| ickdanny        | SFE                       | [<span style="color: green;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564048882134949939) |
-| cipherphantom37 | Project Axon              | [<span style="color: green;">25/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1563972452051189762) |
-| randomnes       | roguelike                 | [<span style="color: green;">18/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1561281331931906101) |
+| zonrox.         | autobattler               | [<span style="color: red;">24/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1563682400871915562) |
+| oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564309666492719196) |
+| riverssjc       | 2d mmo                    | [<span style="color: red;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564347711002509313) |
+| ickdanny        | SFE                       | [<span style="color: green;">01/11/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1566266913695342653) |
+| cipherphantom37 | Project Axon              | [<span style="color: green;">30/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1565784657901916181) |
+| randomnes       | roguelike                 | [<span style="color: green;">01/11/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1566372025914888295) |
 
 ## <span style="color:#B8860B">DEMO/VERTICAL SLICE PARTICIPANTS</span>
 
