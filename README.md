@@ -13,7 +13,6 @@ Please include the word "update" in your message so i can find it when i update 
 
 | user            | project                   | last update               |
 | --------------- | ------------------------- | ------------------------- |
-| zonrox.         | autobattler               | [<span style="color: red;">24/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1563682400871915562) |
 | oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564309666492719196) |
 | riverssjc       | 2d mmo                    | [<span style="color: red;">26/10/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564347711002509313) |
 | ickdanny        | SFE                       | [<span style="color: green;">01/11/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1566266913695342653) |
@@ -44,6 +43,7 @@ Please include the word "update" in your message so i can find it when i update 
 | hallojoby       | no update given                          |
 | catgamedev      | no update given                          |
 | barzenoki       | not enough time for project demands      |
+| zonrox.         | switched to new game                     |
 
 ## REQUIREMENTS
 #### Fortnitely updates
