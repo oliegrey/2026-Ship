@@ -13,7 +13,7 @@ Please include the word "update" in your message so i can find it when i update 
 
 | user            | project                   | last update               |
 | --------------- | ------------------------- | ------------------------- |
-| oliegrey        | saltminer (2d mmo)        | [<span style="color: red;">09/11/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1564309666492719196) |
+| oliegrey        | saltminer (2d mmo)        | [<span style="color: green;">23/11/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1574577491551461417) |
 | ickdanny        | SFE                       | [<span style="color: green;">21/11/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1573522464858972201) |
 | cipherphantom37 | Project Axon              | [<span style="color: green;">21/11/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1573749736996081674) |
 | randomnes       | roguelike                 | [<span style="color: green;">15/11/2026</span>](https://discord.com/channels/85338836384628736/1508293762470641775/1571664302492885035) |
